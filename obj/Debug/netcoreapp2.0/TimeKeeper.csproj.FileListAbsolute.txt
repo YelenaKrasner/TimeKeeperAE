@@ -1,0 +1,11 @@
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\bin\Debug\netcoreapp2.0\TimeKeeper.deps.json
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\bin\Debug\netcoreapp2.0\TimeKeeper.runtimeconfig.json
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\bin\Debug\netcoreapp2.0\TimeKeeper.runtimeconfig.dev.json
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\bin\Debug\netcoreapp2.0\TimeKeeper.dll
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\bin\Debug\netcoreapp2.0\TimeKeeper.pdb
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.csprojAssemblyReference.cache
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.csproj.CoreCompileInputs.cache
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.AssemblyInfoInputs.cache
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.AssemblyInfo.cs
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.dll
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper\obj\Debug\netcoreapp2.0\TimeKeeper.pdb

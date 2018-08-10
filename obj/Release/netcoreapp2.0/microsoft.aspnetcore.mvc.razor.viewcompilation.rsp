@@ -1,0 +1,5 @@
+c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=TimeKeeper
+--content-root=c:\users\ykrasner\source\repos\TimeKeeper\TimeKeeper
+--file=
